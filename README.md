@@ -95,11 +95,10 @@ Here are some tips to help you on your way.
 ## Resources
 
 
-Data -- a folder with the images the client currently has
-app.py -- a bootstrap file (place to start)
-
-[Python 2.7 Documentation](https://docs.python.org/2/)
-[Flask Documentation](http://flask.pocoo.org/)
-[HTTP Requests Library Documentation](http://docs.python-requests.org/en/master/)
- * not necessarily needed, but could come in handy
+ - Data -- a folder with the images the client currently has
+ - app.py -- a bootstrap file (place to start)
+ - [Python 2.7 Documentation](https://docs.python.org/2/)
+ - [Flask Documentation](http://flask.pocoo.org/)
+ - [HTTP Requests Library Documentation](http://docs.python-requests.org/en/master/)
+    * not necessarily needed, but could come in handy
 
