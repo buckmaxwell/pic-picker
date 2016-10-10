@@ -38,6 +38,8 @@ $
 Nice! Visit http://localhost:5000?search=Tina+Belcher to
 see if you're up and running.
 
+![tina belcher](./Data/c.jpg "Tina Belcher")
+
 
 ## Instructions
 
