@@ -100,5 +100,5 @@ Here are some tips to help you on your way.
  - [Python 2.7 Documentation](https://docs.python.org/2/)
  - [Flask Documentation](http://flask.pocoo.org/)
  - [HTTP Requests Library Documentation](http://docs.python-requests.org/en/master/)
-    * not necessarily needed, but could come in handy
+    * The requests library is not necessarily needed, but could come in handy
 
