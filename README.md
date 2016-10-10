@@ -1,5 +1,5 @@
 
-# Hey NEWPATH
+# Pic Picker Workshop
 
 Hey NEWPATH! This is the Python rapid development talk.  I 
 will be here for the whole time to answer any questions about
@@ -13,8 +13,8 @@ the meeting starts, or while I am talking at the beginning.
 
 ```sh
 $ # to get started, clone the repo and enter it
-$ git clone xxxxxxxxxxxxxxxxx
-$ cd PythonRapidDev
+$ git clone https://github.com/buckmaxwell/pic-picker.git
+$ cd pic-picker
 $
 $ # now make sure you have python installed
 $ sudo apt-get install python
