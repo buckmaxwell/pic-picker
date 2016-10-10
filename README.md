@@ -9,7 +9,7 @@ tools and stuff, but you'll mostly be working with each other
 Feel free to get started on the 'Getting Setup' section before
 the meeting starts, or while I am talking at the beginning.
 
-## Getting Started
+## Getting Setup
 
 ```sh
 $ # to get started, clone the repo and enter it
